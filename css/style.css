@@ -57,7 +57,7 @@ section.sobre{
     width: 1200px;
     height: 1200px;
     border-radius: 50%;
-    background-color: #663310;
+    background-color: #4b2410;
 }
 
 .social-media{
@@ -71,7 +71,7 @@ section.sobre{
     margin: 20px 0;
 }
 .texto-sobre{
-    margin-top: 100px;
+    margin-top: 200px;
     width: 800px;
 }
 .texto-sobre h1{
@@ -93,4 +93,14 @@ section.sobre{
     width: 200px;
     height: 50px;
     cursor: pointer;
+}
+
+.teste2{
+    background-color: red;
+    width: 500px;
+    height: 500px;
+}
+
+.teste3{
+    background-color: green;
 }
